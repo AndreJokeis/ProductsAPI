@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|c:\\users\\garci\\documentos\\itsur\\7 semestre\\programacion web ii\\apiweb\\apiweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|solutionrelative:apiweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|c:\\users\\garci\\documentos\\itsur\\7 semestre\\programacion web ii\\apiweb\\apiweb\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|solutionrelative:apiweb\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\formulario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:formulario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|c:\\users\\garci\\documentos\\itsur\\7 semestre\\programacion web ii\\apiweb\\apiweb\\apiweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|solutionrelative:apiweb\\apiweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|c:\\users\\garci\\documentos\\itsur\\7 semestre\\programacion web ii\\apiweb\\apiweb\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|solutionrelative:apiweb\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|c:\\users\\garci\\documentos\\itsur\\7 semestre\\programacion web ii\\apiweb\\apiweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|solutionrelative:apiweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|c:\\users\\garci\\documentos\\itsur\\7 semestre\\programacion web ii\\apiweb\\apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|solutionrelative:apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|c:\\users\\garci\\documentos\\itsur\\7 semestre\\programacion web ii\\apiweb\\apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8B1A205-3051-A70D-B1C2-7A265B9F0C28}|APIWeb\\APIWeb.csproj|solutionrelative:apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "APIWeb\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "APIWeb\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T16:37:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "APIWeb\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "APIWeb\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T13:43:22.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formulario.html",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\formulario.html",
+              "RelativeDocumentMoniker": "formulario.html",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\formulario.html",
+              "RelativeToolTip": "formulario.html",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv7QAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-13T13:22:55.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIWeb.http",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\APIWeb.http",
+              "RelativeDocumentMoniker": "APIWeb\\APIWeb.http",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\APIWeb.http",
+              "RelativeToolTip": "APIWeb\\APIWeb.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-13T05:58:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\index.html",
+              "RelativeDocumentMoniker": "APIWeb\\index.html",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\index.html",
+              "RelativeToolTip": "APIWeb\\index.html",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-12T05:15:46.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T01:05:46.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Program.cs",
+              "RelativeDocumentMoniker": "APIWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\Program.cs",
+              "RelativeToolTip": "APIWeb\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:57:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "APIWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\garci\\Documentos\\ITSUR\\7 Semestre\\Programacion Web II\\APIWeb\\APIWeb\\appsettings.json",
+              "RelativeToolTip": "APIWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T00:56:32.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

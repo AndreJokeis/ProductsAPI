@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Productos - Consumo de API con DataTables</title>
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Lista de Productos</h2>
+
+    <div id="estado" style="margin: 10px 0; padding: 10px; font-weight: bold;">Cargando productos desde la API...</div>
+
+    <table id="tablaProductos" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Stock</th>
+                <th>Cantidad por Unidad</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- el datatable se va a encargar de poblar la tabla -->
+        </tbody>
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+
+    <script>
+        const estadoDiv = document.getElementById('estado');
+
+        fetch('https://localhost:7214/api/Products')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Error HTTP: ${response.status} ${response.statusText}`);
+                }
+                return response.json();
+            })
+            .then(productos => {
+                console.log('Productos recibidos:', productos);
+                estadoDiv.style.display = 'none';
+
+                // Inicializar y poblar la tabla con datatables
+                $('#tablaProductos').DataTable({
+                    data: productos,
+                    columns: [
+                        { data: 'productId' },
+                        { data: 'productName' },
+                        { 
+                            data: 'unitPrice',
+                            render: function(data) {
+                                return data != null ? '$' + parseFloat(data).toFixed(2) : '$0.00';
+                            }
+                        },
+                        { 
+                            data: 'unitsInStock',
+                            defaultContent: '0'
+                        },
+                        { 
+                            data: 'quantityPerUnit',
+                            defaultContent: ''
+                        }
+                    ],
+                    language: {
+                        url: 'https://cdn.datatables.net/plug-ins/1.13.7/i18n/es-ES.json'
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Error detallado:', error);
+                estadoDiv.style.backgroundColor = '#ffdddd';
+                estadoDiv.style.color = '#d8000c';
+                estadoDiv.innerHTML = `
+                    <strong>No se pudieron cargar los datos:</strong> ${error.message}.<br><br>
+                `;
+            });
+    </script>
+</body>
+</html>
